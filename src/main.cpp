@@ -2,7 +2,7 @@
  * main.cpp
  *
  *  Created on: 5 July 2018
- *      Author: Francis
+ *      Author: Francis Ilechukwu
  */
 
 #include <iostream>
